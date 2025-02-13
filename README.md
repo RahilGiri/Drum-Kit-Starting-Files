@@ -48,9 +48,7 @@ git clone <repository-url>
 
 Contributing
 
-Feel free to fork the repository and contribute by opening issues or submitting pull requests.
 
-License
 
 This project is open-source and available under the MIT License.
 
